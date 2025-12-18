@@ -20,6 +20,7 @@
   "manifest": "https://github.com/mmpAppsCorp/ForgeManifests/blob/main/ModernIndustry/module.json",
   "download": "https://github.com/mmpAppsCorp/ForgeManifests/releases/download/ModernIndustry/mmp-modern-industrial-map-pack-walled.zip",
 
+  "systems": [],
   "packs": [
     {
       "name": "mmp-mod-industry-scenes",
@@ -32,5 +33,6 @@
       }
     }
   ],
-  "license": "Users are granted a non-transferable license to use these maps and associated GM notes for their personal use within Foundry Virtual Tabletop or printed for in-person play. Any commercial use is strictly forbidden without express written permission. The maps and GM notes may not be redistributed, resold, or sub-licensed in any form outside of this Foundry VTT module. For permission to feature the maps or notes in a public live-stream or review, please contact support@mmpapps.com."
+  "esmodules": [],
+  "styles": []
 }
