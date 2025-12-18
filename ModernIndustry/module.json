@@ -17,8 +17,8 @@
   ],
   "description": "<p>Maps of Modern Industry</p>",
 
-  "manifest": "https://drive.google.com/uc?export=download&id=1dkfhw0p8GsNLMFdkUv0yTySgn-eOaYjz",
-  "download": "https://drive.google.com/uc?export=download&id=1n5y81peTWqdLue_ieVrxml2e7PshsKYu",
+  "manifest": "https://github.com/mmpAppsCorp/ForgeManifests/blob/main/ModernIndustry/module.json",
+  "download": "https://github.com/mmpAppsCorp/ForgeManifests/releases/download/ModernIndustry/mmp-modern-industrial-map-pack-walled.zip",
 
   "packs": [
     {
