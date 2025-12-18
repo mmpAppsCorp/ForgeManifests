@@ -1,0 +1,36 @@
+{
+  "id": "mmp-modern-industrial-map-pack-walled",
+  "title": "Modern Industry | Map Pack (Walled)",
+  "type": "module",
+  "version": "1.0.0",
+
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "MmpApps Corp.",
+      "email": "mmpapps@gmail.com",
+      "url": "https://mmpapps.com"
+    }
+  ],
+  "description": "<p>Maps of Modern Industry</p>",
+
+  "manifest": "https://drive.google.com/uc?export=download&id=1dkfhw0p8GsNLMFdkUv0yTySgn-eOaYjz",
+  "download": "https://drive.google.com/uc?export=download&id=1n5y81peTWqdLue_ieVrxml2e7PshsKYu",
+
+  "packs": [
+    {
+      "name": "mmp-mod-industry-scenes",
+      "label": "Modern Industry",
+      "path": "packs/mmp-mod-industry-scenes",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "license": "Users are granted a non-transferable license to use these maps and associated GM notes for their personal use within Foundry Virtual Tabletop or printed for in-person play. Any commercial use is strictly forbidden without express written permission. The maps and GM notes may not be redistributed, resold, or sub-licensed in any form outside of this Foundry VTT module. For permission to feature the maps or notes in a public live-stream or review, please contact support@mmpapps.com."
+}
