@@ -18,7 +18,8 @@
   ],
 
   "manifest": "https://github.com/mmpAppsCorp/ForgeManifests/raw/main/ModernEntertainment/module.json",
-  "download": "https://drive.google.com/uc?export=download&id=19P2Yv_JB8S0fS4OpcHbNl6QJk4aSyE05",
+  "download": "https://github.com/mmpAppsCorp/ForgeManifests/releases/download/ModuleZip/mmp-modern-entertainment-map-pack-walled.zip",
+
 
   "systems": [],
   "packs": [
