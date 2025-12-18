@@ -1,0 +1,37 @@
+{
+  "id": "mmp-modern-farms-map-pack-walled-forge",
+  "title": "Modern Farms | Map Pack (Walled)",
+  "type": "module",
+  "version": "1.0.0",
+
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "description": "<p>Farms</p>",
+
+  "authors": [
+    {
+      "name": "MmpApps Corp.",
+      "email": "mmpapps@gmail.com",
+      "url": "https://mmpapps.com"
+    }
+  ],
+
+  "manifest": "https://github.com/mmpAppsCorp/ForgeManifests/raw/main/ModernFarms/module.json",
+  "download": "https://github.com/mmpAppsCorp/ForgeManifests/releases/download/ModernFarms/mmp-modern-farms-map-pack-walled-forge.zip",
+
+  "packs": [
+    {
+      "name": "mmp-mod-farms-scenes",
+      "label": "Modern Farms",
+      "path": "packs/mmp-mod-farms-scenes",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "license": "Users are granted a non-transferable license to use these maps and associated GM notes for their personal use within Foundry Virtual Tabletop or printed for in-person play. Any commercial use is strictly forbidden without express written permission. The maps and GM notes may not be redistributed, resold, or sub-licensed in any form outside of this Foundry VTT module. For permission to feature the maps or notes in a public live-stream or review, please contact support@mmpapps.com."
+}
