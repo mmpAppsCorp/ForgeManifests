@@ -1,0 +1,39 @@
+{
+  "id": "mmp-modern-entertainment-map-pack-walled",
+  "title": "Modern Entertainment | Map Pack (Walled)",
+  "type": "module",
+  "version": "1.0.0",
+
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "description": "<p>Modern Entertainment Establishments</p>",
+  "authors": [
+    {
+      "name": "MmpApps Corp.",
+      "email": "mmpapps@gmail.com",
+      "url": "https://mmpapps.com"
+    }
+  ],
+
+  "manifest": "https://drive.google.com/uc?export=download&id=1vw0f89qhuVaicdg4thhGpUdxx4Pg_BCP",
+  "download": "https://drive.google.com/uc?export=download&id=19P2Yv_JB8S0fS4OpcHbNl6QJk4aSyE05",
+
+  "systems": [],
+  "packs": [
+    {
+      "name": "mmp-mod-entertainment-scenes",
+      "label": "Modern Entertainment | Map Pack (Walled)",
+      "path": "packs/mmp-mod-entertainment-scenes",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+
+  "esmodules": [],
+  "styles": []
+}
