@@ -17,10 +17,9 @@
   ],
   "description": "<p>Maps of Modern Industry</p>",
 
-  "manifest": "https://github.com/mmpAppsCorp/ForgeManifests/blob/main/ModernIndustry/module.json",
+  "manifest": "https://github.com/mmpAppsCorp/ForgeManifests/raw/main/ModernIndustry/module.json",
   "download": "https://github.com/mmpAppsCorp/ForgeManifests/releases/download/ModernIndustry/mmp-modern-industrial-map-pack-walled.zip",
 
-  "systems": [],
   "packs": [
     {
       "name": "mmp-mod-industry-scenes",
@@ -32,7 +31,5 @@
         "ASSISTANT": "OWNER"
       }
     }
-  ],
-  "esmodules": [],
-  "styles": []
+  ]
 }
