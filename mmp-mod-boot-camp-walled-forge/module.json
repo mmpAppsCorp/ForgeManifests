@@ -1,0 +1,39 @@
+{
+  "id": "mmp-mod-boot-camp-walled-forge",
+  "title": "Military Boot Camp | Map Pack (Walled)",
+  "version": "1.0.0",
+  "type": "module",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "description": "<p>boot camp</p>",
+  "authors": [
+    {
+      "name": "MmpApps Corp.",
+      "email": "mmpapps@gmail.com",
+      "url": "https://mmpapps.com"
+    }
+  ],
+  "url": "https://forge-vtt.com/bazaar/package/mmp-mod-boot-camp-walled-forge",
+
+  "manifest": "https://github.com/mmpAppsCorp/ForgeManifests/raw/main/mmp-mod-boot-camp-walled-forge/module.json",
+  "download": "https://github.com/mmpAppsCorp/ForgeManifests/raw/main/mmp-mod-boot-camp-walled-forge/mmp-mod-boot-camp-walled-forge.zip",
+
+  "systems": [],
+  "packs": [
+    {
+      "name": "mmp-mod-boot-camp-forge-scenes",
+      "label": "Boot Camp",
+      "path": "packs/mmp-mod-boot-camp-forge-scenes",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+
+  "esmodules": [],
+  "styles": []
+}
