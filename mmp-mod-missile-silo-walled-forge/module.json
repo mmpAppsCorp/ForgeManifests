@@ -23,6 +23,7 @@
   "manifest": "https://github.com/mmpAppsCorp/ForgeManifests/raw/main/mmp-mod-missile-silo-walled-forge/module.json",
   "download": "https://github.com/mmpAppsCorp/ForgeManifests/raw/main/mmp-mod-missile-silo-walled-forge/mmp-mod-missile-silo-walled-forge.zip",
 
+  "systems": [],
   "packs": [
     {
       "name": "mmp-mod-missile-silo-forge-scenes",
@@ -34,5 +35,8 @@
         "ASSISTANT": "OWNER"
       }
     }
-  ]
+  ],
+
+  "esmodules": [],
+  "styles": []
 }
