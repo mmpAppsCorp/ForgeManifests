@@ -1,0 +1,38 @@
+{
+  "id": "mmp-mod-missile-silo-walled-forge",
+  "title": "Missile Silo | Map Pack (Walled)",
+  "version": "1.0.0",
+  "type": "module",
+
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+
+  "authors": [
+    {
+      "name": "MmpApps Corp.",
+      "email": "mmpapps@gmail.com",
+      "url": "https://mmpapps.com"
+    }
+  ],
+
+  "description": "<p>missile silo</p>",
+  "url": "https://forge-vtt.com/bazaar/package/mmp-mod-missile-silo-walled-forge",
+
+  "manifest": "",
+  "download": "",
+
+  "packs": [
+    {
+      "name": "mmp-mod-missile-silo-forge-scenes",
+      "label": "Missile Silo",
+      "path": "packs/mmp-mod-missile-silo-forge-scenes",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}
