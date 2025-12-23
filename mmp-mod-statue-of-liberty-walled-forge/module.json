@@ -29,9 +29,9 @@
 
   "packs": [
     {
-      "name": "mmp-mod-missile-silo-forge-scenes",
-      "label": "Missile Silo",
-      "path": "packs/mmp-mod-missile-silo-forge-scenes",
+      "name": "mmp-statue-of-liberty-forge-scenes",
+      "label": "Statue of Liberty",
+      "path": "packs/mmp-statue-of-liberty-forge-scenes",
       "type": "Scene",
       "ownership": {
         "PLAYER": "OBSERVER",
