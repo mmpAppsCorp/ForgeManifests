@@ -1,0 +1,42 @@
+{
+  "id": "mmp-mod-downing-walled-forge",
+  "title": "10 Downing Street | Map Pack (Walled)",
+  "version": "1.0.0",
+  "type": "module",
+
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+
+  "authors": [
+    {
+      "name": "MmpApps Corp.",
+      "email": "mmpapps@gmail.com",
+      "url": "https://mmpapps.com"
+    }
+  ],
+
+  "description": "<p>TODO</p>",
+  "url": "https://forge-vtt.com/bazaar/package/mmp-mod-downing-walled-forge",
+
+  "manifest": "https://github.com/mmpAppsCorp/ForgeManifests/raw/main/mmp-mod-downing-walled-forge/module.json",
+  "download": "https://github.com/mmpAppsCorp/ForgeManifests/raw/main/mmp-mod-downing-walled-forge/mmp-mod-downing-walled-forge.zip",
+
+  "systems": [],
+  "esmodules": [],
+  "styles": [],
+
+  "packs": [
+    {
+      "name": "mmp-downing-forge-scenes",
+      "label": "10 Downing Street",
+      "path": "packs/mmp-downing-forge-scenes",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}
