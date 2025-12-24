@@ -1,0 +1,42 @@
+{
+  "id": "mmp-mod-barber-shop-walled-forge",
+  "title": "Barber Shop | Map Pack (Walled)",
+  "version": "1.0.0",
+  "type": "module",
+
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+
+  "authors": [
+    {
+      "name": "MmpApps Corp.",
+      "email": "mmpapps@gmail.com",
+      "url": "https://mmpapps.com"
+    }
+  ],
+
+  "description": "<p>TODO</p>",
+  "url": "https://forge-vtt.com/bazaar/package/mmp-mod-barber-shop-walled-forge",
+
+  "manifest": "https://github.com/mmpAppsCorp/ForgeManifests/raw/main/mmp-mod-barber-shop-walled-forge/module.json",
+  "download": "https://github.com/mmpAppsCorp/ForgeManifests/raw/main/mmp-mod-barber-shop-walled-forge/mmp-mod-barber-shop-walled-forge.zip",
+
+  "systems": [],
+  "esmodules": [],
+  "styles": [],
+
+  "packs": [
+    {
+      "name": "mmp-barber-shop-forge-scenes",
+      "label": "Barber Shop",
+      "path": "packs/mmp-barber-shop-forge-scenes",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}
