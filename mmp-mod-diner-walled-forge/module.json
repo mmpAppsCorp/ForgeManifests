@@ -1,0 +1,41 @@
+{
+  "id": "mmp-mod-diner-walled-forge",
+  "title": "1950s Retro Diner | Map Pack (Walled)",
+  "version": "1.0.0",
+  "type": "module",
+
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+
+  "authors": [
+    {
+      "name": "MmpApps Corp.",
+      "email": "mmpapps@gmail.com",
+      "url": "https://mmpapps.com"
+    }
+  ],
+
+  "description": "<p>TODO</p>",
+  "url": "https://forge-vtt.com/bazaar/package/mmp-mod-diner-walled-forge",
+
+  "manifest": "https://github.com/mmpAppsCorp/ForgeManifests/raw/main/mmp-mod-diner-walled-forge/module.json",
+  "download": "https://github.com/mmpAppsCorp/ForgeManifests/raw/main/mmp-mod-diner-walled-forge/mmp-mod-diner-walled-forge.zip",
+
+  "systems": [],
+  "esmodules": [],
+  "styles": [],
+  "packs": [
+    {
+      "name": "mmp-diner-forge-scenes",
+      "label": "1950s Retro Diner",
+      "path": "packs/mmp-diner-forge-scenes",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}

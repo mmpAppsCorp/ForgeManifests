@@ -1,0 +1,41 @@
+{
+  "id": "mmp-mod-museum-walled-forge",
+  "title": "Museum | Map Pack (Walled)",
+  "version": "1.0.0",
+  "type": "module",
+
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+
+  "authors": [
+    {
+      "name": "MmpApps Corp.",
+      "email": "mmpapps@gmail.com",
+      "url": "https://mmpapps.com"
+    }
+  ],
+
+  "description": "<p>TODO</p>",
+  "url": "https://forge-vtt.com/bazaar/package/mmp-mod-museum-walled-forge",
+
+  "manifest": "https://github.com/mmpAppsCorp/ForgeManifests/raw/main/mmp-mod-museum-walled-forge/module.json",
+  "download": "https://github.com/mmpAppsCorp/ForgeManifests/raw/main/mmp-mod-museum-walled-forge/mmp-mod-museum-walled-forge.zip",
+
+  "systems": [],
+  "esmodules": [],
+  "styles": [],
+  "packs": [
+    {
+      "name": "mmp-mod-museum-forge-scenes",
+      "label": "Museum",
+      "path": "packs/mmp-mod-museum-forge-scenes",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}
