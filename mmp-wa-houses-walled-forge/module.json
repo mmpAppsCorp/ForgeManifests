@@ -1,0 +1,26 @@
+{
+  "id": "mmp-wa-houses-walled-forge",
+  "title": "Western Adventures - Houses | Map Pack (Walled)",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "mmp-wa-houses-forge-scenes",
+      "label": "Western Adventures - Houses",
+      "path": "packs/mmp-wa-houses-forge-scenes",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "description": ""
+}
