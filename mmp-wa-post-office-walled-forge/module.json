@@ -1,0 +1,41 @@
+{
+  "id": "mmp-wa-post-office-walled-forge",
+  "title": "Western Adventures - Post Offices | Map Pack (Walled)",
+  "version": "1.0.0",
+  "type": "module",
+
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+
+  "authors": [
+    {
+      "name": "MmpApps Corp.",
+      "email": "mmpapps@gmail.com",
+      "url": "https://mmpapps.com"
+    }
+  ],
+
+  "description": "<p>TODO</p>",
+  "url": "https://forge-vtt.com/bazaar/package/mmp-wa-post-office-walled-forge",
+
+  "manifest": "https://github.com/mmpAppsCorp/ForgeManifests/raw/main/mmp-wa-post-office-walled-forge/module.json",
+  "download": "https://github.com/mmpAppsCorp/ForgeManifests/raw/main/mmp-wa-post-office-walled-forge/mmp-wa-post-office-walled-forge.zip",
+
+  "systems": [],
+  "esmodules": [],
+  "styles": [],
+  "packs": [
+    {
+      "name": "mmp-wa-post-offices-forge-scenes",
+      "label": "Western Adventures - Post Offices",
+      "path": "packs/mmp-wa-post-offices-forge-scenes",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}
