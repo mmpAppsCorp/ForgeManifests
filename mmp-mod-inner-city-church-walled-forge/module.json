@@ -1,0 +1,41 @@
+{
+  "id": "mmp-mod-inner-city-church-walled-forge",
+  "title": "Inner-City Church | Map Pack (Walled)",
+  "version": "1.0.0",
+  "type": "module",
+
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+
+  "authors": [
+    {
+      "name": "MmpApps Corp.",
+      "email": "mmpapps@gmail.com",
+      "url": "https://mmpapps.com"
+    }
+  ],
+
+  "description": "<p>TODO</p>",
+  "url": "https://forge-vtt.com/bazaar/package/mmp-mod-inner-city-church-walled-forge",
+
+  "manifest": "https://github.com/mmpAppsCorp/ForgeManifests/raw/main/mmp-mod-inner-city-church-walled-forge/module.json",
+  "download": "https://github.com/mmpAppsCorp/ForgeManifests/raw/main/mmp-mod-inner-city-church-walled-forge/mmp-mod-inner-city-church-walled-forge.zip",
+
+  "systems": [],
+  "esmodules": [],
+  "styles": [],
+  "packs": [
+    {
+      "name": "mmp-mod-inner-city-church-forge-scenes",
+      "label": "Inner-City Church",
+      "path": "packs/mmp-mod-inner-city-church-forge-scenes",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}
