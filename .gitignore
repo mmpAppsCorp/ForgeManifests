@@ -1,5 +1,7 @@
 # Ignore all directories
 */
 
+.DS_Store
+
 # But allow files at the root
 !/*
