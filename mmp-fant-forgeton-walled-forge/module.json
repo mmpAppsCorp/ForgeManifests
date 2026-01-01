@@ -1,0 +1,25 @@
+{
+  "id": "mmp-fant-gor-razgul-walled-forge",
+  "title": "Gor Gazgul - Orc Village | Map Pack (Walled)",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "mmp-fant-gor-razgul-forge-scenes",
+      "label": "Gor Razgul",
+      "path": "packs/mmp-fant-gor-razgul-forge-scenes",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "description": ""
+}
