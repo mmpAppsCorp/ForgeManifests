@@ -1,0 +1,41 @@
+{
+  "id": "mmp-mod-antarctic-research-station-walled-forge",
+  "title": "Antarctic Research Station | Map Pack (Walled)",
+  "version": "1.0.0",
+  "type": "module",
+
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+
+  "authors": [
+    {
+      "name": "MmpApps Corp.",
+      "email": "mmpapps@gmail.com",
+      "url": "https://mmpapps.com"
+    }
+  ],
+
+  "description": "<p>TODO</p>",
+  "url": "https://forge-vtt.com/bazaar/package/mmp-mod-antarctic-research-station-walled-forge",
+
+  "manifest": "https://github.com/mmpAppsCorp/ForgeManifests/raw/main/mmp-mod-antarctic-research-station-walled-forge/module.json",
+  "download": "https://github.com/mmpAppsCorp/ForgeManifests/raw/main/mmp-mod-antarctic-research-station-walled-forge/mmp-mod-antarctic-research-station-walled-forge.zip",
+
+  "systems": [],
+  "esmodules": [],
+  "styles": [],
+  "packs": [
+    {
+      "name": "mmp-mod-antarctic-station-walled-forge",
+      "label": "Antarctic Research Station",
+      "path": "packs/mmp-mod-antarctic-station-walled-forge",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}
